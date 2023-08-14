@@ -6,6 +6,9 @@
 
 ```bash
 python3 main.py
+# or
+python3 main_optimized.py
+# ^^^ this uses only bitwise operations, no strings
 ```
 
 ## Input
