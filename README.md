@@ -1,6 +1,7 @@
 # minimal-spanning-subnet
 
-
+🐍 Python code for finding the "minimal spanning subnet"  for a given set of IPv4 addresses  
+ℹ if the addresses don't have any common prefix the returned result is `0.0.0.0/0`
 
 ## Run
 
